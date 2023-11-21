@@ -1,7 +1,7 @@
 const US_MAP_TEAMS_MAP = {
     clippers: {
         name: "Los Angeles Clippers",
-        icon: "../img/icons/desktop/clippers.png",
+        icon: "assets/img/icons/desktop/clippers.png",
         link: "https://www.youtube.com/embed/w_9ObkLey6s?si=AR9xgGReeb4CkNF2",
         conference: {
             name: "Conferência Oeste",
@@ -10,7 +10,7 @@ const US_MAP_TEAMS_MAP = {
     },
     portland: {
         name: "Portland Trail Blazers",
-        icon: "../img/icons/desktop/portland.png",
+        icon: "assets/img/icons/desktop/portland.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -19,7 +19,7 @@ const US_MAP_TEAMS_MAP = {
     },
     lakers: {
         name: "Los Angeles Lakers",
-        icon: "../img/icons/desktop/lakers.png",
+        icon: "assets/img/icons/desktop/lakers.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -28,7 +28,7 @@ const US_MAP_TEAMS_MAP = {
     },
     utah: {
         name: "Utah Jazz",
-        icon: "../img/icons/desktop/utah.png",
+        icon: "assets/img/icons/desktop/utah.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -37,7 +37,7 @@ const US_MAP_TEAMS_MAP = {
     },
     thunder: {
         name: "Oklahoma City Thunder",
-        icon: "../img/icons/desktop/thunder.png",
+        icon: "assets/img/icons/desktop/thunder.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -46,7 +46,7 @@ const US_MAP_TEAMS_MAP = {
     },
     rockets: {
         name: "Houston Rockets",
-        icon: "../img/icons/desktop/rockets.png",
+        icon: "assets/img/icons/desktop/rockets.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -55,7 +55,7 @@ const US_MAP_TEAMS_MAP = {
     },
     spurs: {
         name: "San Antonio Spurs",
-        icon: "../img/icons/desktop/spyrs.png",
+        icon: "assets/img/icons/desktop/spyrs.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -64,7 +64,7 @@ const US_MAP_TEAMS_MAP = {
     },
     nuggets: {
         name: "Denver Nuggets",
-        icon: "../img/icons/desktop/nuggets.png",
+        icon: "assets/img/icons/desktop/nuggets.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -73,7 +73,7 @@ const US_MAP_TEAMS_MAP = {
     },
     mavericks: {
         name: "Dallas Mavericks",
-        icon: "../img/icons/desktop/mavericks.png",
+        icon: "assets/img/icons/desktop/mavericks.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -82,7 +82,7 @@ const US_MAP_TEAMS_MAP = {
     },
     kings: {
         name: "Sacramento Kings",
-        icon: "../img/icons/desktop/kings.png",
+        icon: "assets/img/icons/desktop/kings.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -91,7 +91,7 @@ const US_MAP_TEAMS_MAP = {
     },
     pacers: {
         name: "Indiana Pacers",
-        icon: "../img/icons/desktop/pacers.png",
+        icon: "assets/img/icons/desktop/pacers.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -100,7 +100,7 @@ const US_MAP_TEAMS_MAP = {
     },
     knicks: {
         name: "New York Knicks",
-        icon: "../img/icons/desktop/knicks.png",
+        icon: "assets/img/icons/desktop/knicks.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -109,7 +109,7 @@ const US_MAP_TEAMS_MAP = {
     },
     celtics: {
         name: "Boston Celtics",
-        icon: "../img/icons/desktop/celltics.png",
+        icon: "assets/img/icons/desktop/celltics.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -118,7 +118,7 @@ const US_MAP_TEAMS_MAP = {
     },
     heat: {
         name: "Miami Heat",
-        icon: "../img/icons/desktop/heat.png",
+        icon: "assets/img/icons/desktop/heat.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -127,7 +127,7 @@ const US_MAP_TEAMS_MAP = {
     },
     suns: {
         name: "Phoenix Suns",
-        icon: "../img/icons/desktop/suns.png",
+        icon: "assets/img/icons/desktop/suns.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -136,7 +136,7 @@ const US_MAP_TEAMS_MAP = {
     },
     timberwolves: {
         name: "Minnesota Timberwolves",
-        icon: "../img/icons/desktop/timberwolves.png",
+        icon: "assets/img/icons/desktop/timberwolves.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -145,7 +145,7 @@ const US_MAP_TEAMS_MAP = {
     },
     nets: {
         name: "Brooklyn Nets",
-        icon: "../img/icons/desktop/nets.png",
+        icon: "assets/img/icons/desktop/nets.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -154,7 +154,7 @@ const US_MAP_TEAMS_MAP = {
     },
     raptors: {
         name: "Toronto Raptors",
-        icon: "../img/icons/desktop/reptors.png",
+        icon: "assets/img/icons/desktop/reptors.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -163,7 +163,7 @@ const US_MAP_TEAMS_MAP = {
     },
     cavaliers: {
         name: "Cleveland Cavaliers",
-        icon: "../img/icons/desktop/cavaliers.png",
+        icon: "assets/img/icons/desktop/cavaliers.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -172,7 +172,7 @@ const US_MAP_TEAMS_MAP = {
     },
     wizards: {
         name: "Washington Wizards",
-        icon: "../img/icons/desktop/wizards.png",
+        icon: "assets/img/icons/desktop/wizards.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -181,7 +181,7 @@ const US_MAP_TEAMS_MAP = {
     },
     pistons: {
         name: "Detroit Pistons",
-        icon: "../img/icons/desktop/pinstons.png",
+        icon: "assets/img/icons/desktop/pinstons.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -190,7 +190,7 @@ const US_MAP_TEAMS_MAP = {
     },
     hawks: {
         name: "Atlanta Hawks",
-        icon: "../img/icons/desktop/hawks.png",
+        icon: "assets/img/icons/desktop/hawks.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -199,7 +199,7 @@ const US_MAP_TEAMS_MAP = {
     },
     magic: {
         name: "Orlando Magic",
-        icon: "../img/icons/desktop/magic.png",
+        icon: "assets/img/icons/desktop/magic.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -208,7 +208,7 @@ const US_MAP_TEAMS_MAP = {
     },
     bulls: {
         name: "Chicado Bulls",
-        icon: "../img/icons/desktop/bulls.png",
+        icon: "assets/img/icons/desktop/bulls.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -217,7 +217,7 @@ const US_MAP_TEAMS_MAP = {
     },
     bucks: {
         name: "Milwaukee Bucks",
-        icon: "../img/icons/desktop/bucks.png",
+        icon: "assets/img/icons/desktop/bucks.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -226,7 +226,7 @@ const US_MAP_TEAMS_MAP = {
     },
     hornets: {
         name: "Charlotte Hornets",
-        icon: "../img/icons/desktop/hornets.png",
+        icon: "assets/img/icons/desktop/hornets.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -235,7 +235,7 @@ const US_MAP_TEAMS_MAP = {
     },
     memphis: {
         name: "Memphis Grizzlies",
-        icon: "../img/icons/desktop/memphis.png",
+        icon: "assets/img/icons/desktop/memphis.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
@@ -244,7 +244,7 @@ const US_MAP_TEAMS_MAP = {
     },
     philadelphia: {
         name: "Philadelphia 76ers",
-        icon: "../img/icons/desktop/philadelfia.png",
+        icon: "assets/img/icons/desktop/philadelfia.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -253,7 +253,7 @@ const US_MAP_TEAMS_MAP = {
     },
     pelicans: {
         name: "New Orleans Pelicans",
-        icon: "../img/icons/desktop/pelicans.png",
+        icon: "assets/img/icons/desktop/pelicans.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Leste",
@@ -262,7 +262,7 @@ const US_MAP_TEAMS_MAP = {
     },
     warriors: {
         name: "Golden State Warriors",
-        icon: "../img/icons/desktop/warriors.png",
+        icon: "assets/img/icons/desktop/warriors.png",
         link: "https://www.youtube.com/embed/b5M4MFAGJZA?si=M-PX9XHkvXWXEXvL",
         conference: {
             name: "Conferência Oeste",
