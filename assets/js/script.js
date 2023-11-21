@@ -44,7 +44,11 @@ const initializeSVGMapListeners = () => {
 
 initializeSVGMapListeners();
 
-document.querySelector(".close-modal-button").addEventListener("click", toggleModal);
+document.querySelector(".close-modal-button").addEventListener("click", () => {
+    toggleModal();
+
+    document.querySelector(".iframe-video-area iframe").src = "";
+});
 
 document.querySelector(".section_questions-ul").addEventListener("click", ({ target }) => {
     const isQuestion = target.parentElement.classList.contains("section_questions-question");
