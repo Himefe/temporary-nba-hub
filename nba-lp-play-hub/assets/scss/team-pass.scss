@@ -1,0 +1,25 @@
+@import "./style.css";
+
+.main_container {
+    background: none;
+
+    img.poligon-right {
+        top: 800px;
+    }
+
+    .main_container_content {
+        #section_franchises_container {
+            margin-top: 0;
+        }
+    }
+}
+
+@media screen {
+    @media (max-width: 767px) {
+        .main_container {
+            img.poligon-right {
+                top: 2280px;
+            }
+        }
+    }
+}
