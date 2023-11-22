@@ -47,6 +47,7 @@ img {
 }
 .modal .modal-content {
   width: 90%;
+  overflow: auto;
   max-height: 680px;
   height: calc(100% - 30px);
   max-width: 900px;
